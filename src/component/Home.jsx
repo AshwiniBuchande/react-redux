@@ -4,7 +4,6 @@ function Home() {
   return (
     <div>
         <div className="add-to-cart">
-            <img src="https://t3.ftcdn.net/jpg/07/97/42/64/360_F_797426494_ZTXgDGUVFlPDOWjnzzQ9xUZwQW2efFH5.jpg" alt="" srcset="" />
         </div>
       <h1>Home Component</h1>
       <div className="cart-wrapper">
